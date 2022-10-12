@@ -20,7 +20,7 @@ https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme
 
 
 <a>
-  <img align="center" src=![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=tokyonight)" />
+  <img align="center" src="![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=tokyonight)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
