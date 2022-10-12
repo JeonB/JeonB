@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<div style="float:left">
+<div style="float:left" align = "center">
   <img  src="https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
 </div>
