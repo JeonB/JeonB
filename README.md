@@ -16,6 +16,7 @@
 
 <div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight)
+ 
 </div>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight)
