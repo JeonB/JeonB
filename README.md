@@ -15,9 +15,6 @@
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight)
-
 
 <a href="https://github.com/JeonB/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeonB&repo=github-readme-stats" />
