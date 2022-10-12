@@ -14,17 +14,14 @@
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy&show_icons=true)
- 
-</div>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JeonB/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeonB&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/JeonB/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeonB&repo=convoychat" />
 </a>
