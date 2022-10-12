@@ -14,10 +14,13 @@
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=buefy"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
+</div>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=buefy" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=buefy,"https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
 </a>
                                    
