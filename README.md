@@ -16,7 +16,7 @@
 
 <div align = "center">
   <img  width = "350px" src="https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy"/>
-  <img  width = "350px"  height = "150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
+  <img  width = "350px"  height = "100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
 </div>
  
 
