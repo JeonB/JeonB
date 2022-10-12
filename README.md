@@ -15,10 +15,10 @@
 -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=tokyonight)
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
 </a>
                                    
 <a>
