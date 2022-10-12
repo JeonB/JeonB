@@ -2,8 +2,11 @@
 
 <!--
 **JeonB/JeonB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+
+<table><tr><td class="border_l border_r border_t border_b selected"><div class="wrap"><div style="margin: 10px 5px;" class="entry-editing" contenteditable="true"><p><span>xx</span></p></div></div></td></tr></table>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
