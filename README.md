@@ -13,6 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+(https://github-readme-stats.vercel.app/api?username=JeonBs&show_icons=true&theme=tokyonight)
 
 
 
