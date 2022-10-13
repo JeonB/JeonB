@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/JeonB/github-readme-stats)
 <div align = "center">
   <img  width = "350px" src="https://github-readme-stats.vercel.app/api?username=JeonB&show_icons=true&theme=buefy"/>
   <img  width = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
