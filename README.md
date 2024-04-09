@@ -16,5 +16,6 @@
   <img  width = "350px" src="https://github-readme-stats.vercel.app/api?username=JeonB&theme=buefy"/>
   <img  width = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
 </div>
- 
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeonB&theme=tokyonight)](https://git.io/streak-stats)
 
