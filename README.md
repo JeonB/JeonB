@@ -14,8 +14,8 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonB&hide=contribs,prs)  -->
 <div align = "center">
   <img  width = "350px" src="https://github-readme-stats.vercel.app/api?username=JeonB&theme=buefy"/>
-  <img  width = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
+  <img  width = "300px" height = "150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeonB&layout=compact&theme=tokyonight" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeonB&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeonB&theme=tokyonight)](https://git.io/streak-stats)
 
