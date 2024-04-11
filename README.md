@@ -1,4 +1,4 @@
-### 잠코딩잠코딩잠코딩잠코딩잠코딩잠코딩 👋
+### 🧑‍💻 잠코딩잠코딩잠코딩잠코딩잠코딩잠코딩 🐼
 
 <!--
 **JeonB/JeonB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
